@@ -1,9 +1,9 @@
-+++
-date = '2025-04-10T10:53:35+08:00'
-draft = true
-title = 'Use Image Fx'
+---
+date: '2025-04-10T10:53:35+08:00'
+draft: true
+title: 'Use Image Fx'
 
-+++
+---
 
 # 使用 Image-Fx
 
