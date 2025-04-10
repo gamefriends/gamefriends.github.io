@@ -8,3 +8,8 @@ copyright: "© 2025 **[gamefriends.net](/)**"
 params:
   mainSections:
     - posts
+  comments: true
+  utterances:
+    repo: gamefriends/gamefriends.github.io
+    issueTerm: pathname
+    theme: github-light
