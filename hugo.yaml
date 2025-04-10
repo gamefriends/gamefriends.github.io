@@ -10,6 +10,7 @@ params:
     - posts
   comments: true
   utterances:
+    enable: true
     repo: gamefriends/gamefriends.github.io
     issueTerm: pathname
     theme: github-light
