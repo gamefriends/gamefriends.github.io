@@ -4,6 +4,7 @@ title: Game Friends
 pagination:
   pagerSize: 5
 theme: PaperMod
+copyright: "© 2025 **[gamefriends.net](/)**"
 params:
   mainSections:
     - posts

@@ -2,6 +2,12 @@
 date: '2025-04-10T10:53:35+08:00'
 draft: false
 title: '使用 Image-Fx'
+tags:
+    - google
+    - labs.google
+    - image-fx
+    - AI
+    - 文生图
 
 ---
 
