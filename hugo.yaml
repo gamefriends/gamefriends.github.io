@@ -1,6 +1,6 @@
 baseURL: https://gamefriends.net/
 languageCode: en-us
-title: GameFriends
+title: Game Friends
 pagination:
   pagerSize: 5
 theme: PaperMod
