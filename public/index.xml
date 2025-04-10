@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>GameFriends.net</title>
+    <title>GameFriends</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on GameFriends.net</description>
+    <description>Recent content on GameFriends</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2025 10:53:35 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use Image Fx</title>
+      <link>http://localhost:1313/posts/use-image-fx/</link>
+      <pubDate>Thu, 10 Apr 2025 10:53:35 +0800</pubDate>
+      <guid>http://localhost:1313/posts/use-image-fx/</guid>
+      <description>&lt;h1 id=&#34;使用-image-fx&#34;&gt;使用 Image-Fx&lt;/h1&gt;
+&lt;p&gt;Image-Fx是目前我使用的最棒的AI文生图的软件，而且目前是免费的，推荐大家使用。&lt;/p&gt;
+&lt;p&gt;访问网址：&lt;a href=&#34;https://labs.google/fx/zh/image-fx&#34;&gt;Image-Fx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20250410110637540&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/image-20250410110637540.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这里应该使用英文填写提示词，如果使用中文写提示词，会出现错误提示：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20250410112704164&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/image-20250410112704164.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我们可以使用chatgpt重写一下提示词，可以看到效果很不错的。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image-20250410113118339&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/image-20250410113118339.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

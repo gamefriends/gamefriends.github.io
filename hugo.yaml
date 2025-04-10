@@ -1,0 +1,9 @@
+baseURL: https://gamefriends.net/
+languageCode: en-us
+title: GameFriends
+pagination:
+  pagerSize: 5
+theme: PaperMod
+params:
+  mainSections:
+    - posts
