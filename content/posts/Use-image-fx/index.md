@@ -1,11 +1,9 @@
 ---
 date: '2025-04-10T10:53:35+08:00'
-draft: true
-title: 'Use Image Fx'
+draft: false
+title: '使用 Image-Fx'
 
 ---
-
-# 使用 Image-Fx
 
 Image-Fx是目前我使用的最棒的AI文生图的软件，而且目前是免费的，推荐大家使用。
 
